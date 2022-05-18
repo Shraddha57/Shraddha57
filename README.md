@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **K8, Azure**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
